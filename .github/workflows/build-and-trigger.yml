@@ -10,7 +10,7 @@ on:
 
 env:
   NEXT_IN_CHAIN: "enhanceMaxMcMurray/open-suite-webapp"
-  NEXT_IN_CHAIN_WORKFLOWID: "docker-image.yml" 
+  NEXT_IN_CHAIN_WORKFLOWID: "main.yml" 
 
 jobs:
   build:
