@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  NEXT_IN_CHAIN: "enhanceMaxMcMurray/axelor-docker"
+  NEXT_IN_CHAIN: "enhanceMaxMcMurray/open-suite-webapp"
   NEXT_IN_CHAIN_WORKFLOWID: "docker-image.yml" 
 
 jobs:
